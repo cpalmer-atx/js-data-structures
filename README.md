@@ -8,7 +8,7 @@
 
 ## <div align="center"> How? </div>
 
-<p>This is to beneift me just as much as it's meant to benefit you.  I'll be adding contribution guidelines in the near future, but in the meantime, set up your environment and get started:</p>
+<p>This is to benefit me just as much as it's meant to benefit you.  I'll be adding contribution guidelines in the near future, but in the meantime, set up your environment and get started:</p>
 
 ### The lazy way... don't be lazy:
 ```
@@ -45,3 +45,13 @@ git clone https://github.com/cpalmer-atx/js-data-structures.git
     ```
     git pull upstream main
     ```
+
+    ## <div align="center"> Made it this far? </div>
+
+    <p>If you can solve these data structures, add new tests and contribute to this repo, don't forget to add the following skills to your resume!</p><br>
+
+    1. Javascript
+    2. Mocha/Chai
+    3. git/github
+    4. Test-driven development (TDD)
+    5. Object-Oriented Programming (OOP)
